@@ -75,3 +75,10 @@ body {
     align-items: center;
     margin: 0 10em;
 }
+
+.descricao_titulo {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--branco-principal);
+    margin: 0.1em;
+}
