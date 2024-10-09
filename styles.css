@@ -111,3 +111,8 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
 }
+
+.lista_item {
+    font-size: 32px;
+    color: var(--botao-azul);
+}
