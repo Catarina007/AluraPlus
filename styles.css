@@ -129,3 +129,22 @@ body {
     color: var(--branco-principal);
     margin-left: 1em;
 }
+
+.rodape_texto {
+    margin: 1e 0;
+    color: var(--cinza-secundario);
+    font-size: 14px;
+}
+
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
+}
+
+.lista_link a:hover{
+    color: var(--botao-azul);
+}
+
+.lista_link a:active{
+    color: purple;
+}
